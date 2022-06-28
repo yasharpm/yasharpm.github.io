@@ -1,7 +1,7 @@
 # Projects
 
 ## LetsTip
-*June 28th 2022*
+<sub>June 28th 2022</sub>
 
 ### Overview
 A donation website with zero fees and direct donation delivery. We rely on donations for our income.
@@ -18,12 +18,12 @@ For actual marketing, the plan is to start with Russian English content creators
 One of the Russian content creators I contacted has shown interest. Waiting for his reply.
 
 ### Links
-**Official website** https://letstip.io
-**Repository on github** https://github.com/letstipio
+- **Official website** https://letstip.io
+- **Repository on github** https://github.com/letstipio
 
 
 ## Iran online gate
-*June 28th 2022*
+<sub>June 28th 2022</sub>
 
 ### Overview
 A website which provides access to Iranian websites and services which otherwise are restricted from abroad due to IP banning or banking limitations.
